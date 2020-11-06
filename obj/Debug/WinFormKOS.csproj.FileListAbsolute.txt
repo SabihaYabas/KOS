@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\bin\Debug\WinFormKOS.exe.config
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\bin\Debug\WinFormKOS.exe
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\bin\Debug\WinFormKOS.pdb
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.FormKurulum.resources
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.FormLogin.resources
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.Properties.Resources.resources
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.exe
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.pdb
+C:\Users\PC\Desktop\Kütüphane Otomasyon Sist\WinFormKOS\obj\Debug\WinFormKOS.FormHome.resources
